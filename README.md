@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**Sb958378/Sb958378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yo, I'm a Java Dev based in India. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+⚙️ **Backend:**
+&nbsp;Java&nbsp; | &nbsp;Hibernate&nbsp; | &nbsp;Spring&nbsp; | &nbsp;Spring Boot&nbsp; | &nbsp;Spring Security&nbsp; | &nbsp;JWT&nbsp; 
+
+⛺️ **Frontend:** 
+&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;Tailwind CSS&nbsp; | &nbsp;JavaScript&nbsp; | &nbsp;ReactJS&nbsp; | &nbsp;React Router Dom&nbsp; 
+
+📁 **Database:**
+&nbsp;MySQL&nbsp;  
+
+🧰 **Tools:**
+&nbsp;Git & GitHub&nbsp; | &nbsp;Swagger-UI &nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;Spring Tool Suite&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp;
+
+
+
+
