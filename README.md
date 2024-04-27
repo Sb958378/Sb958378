@@ -8,7 +8,7 @@
 &nbsp;Java&nbsp; | &nbsp;Hibernate&nbsp; | &nbsp;Spring&nbsp; | &nbsp;Spring Boot&nbsp; | &nbsp;Spring Security&nbsp; | &nbsp;JWT&nbsp; 
 
 ⛺️ **Frontend:** 
-&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;Tailwind CSS&nbsp; | &nbsp;JavaScript&nbsp; | &nbsp;ReactJS&nbsp; | &nbsp;React Router Dom&nbsp; 
+&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;Tailwind CSS&nbsp;  | &nbsp;ReactJS&nbsp; | &nbsp;React Router Dom&nbsp; 
 
 📁 **Database:**
 &nbsp;MySQL&nbsp;  
